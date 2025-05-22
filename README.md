@@ -1,7 +1,7 @@
 
 # Hi, I'm Jacob
 
-💻 I'm currently studying a Higher Degree in Multiplatform Application Development. So far, I've worked with HTML, CSS, Bootstrap, Java, MySQL, and MongoDB. I also have experience with operating systems like Linux and Windows. Always learning and building!
+💻 I'm currently studying a Higher Degree in Multiplatform Application Development. So far, I've worked with HTML, CSS, JavaScript,Bootstrap, Java, MySQL, and MongoDB. I also have experience with operating systems like Linux and Windows. Always learning and building!
 
 # GitHub Stats
 
