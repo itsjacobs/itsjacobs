@@ -28,4 +28,4 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=itsjacobs&show_icons=true&theme=radical)
 
 ## 🌐 ¡Conéctate conmigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanbetancor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rosales-rojas-844921384/)
