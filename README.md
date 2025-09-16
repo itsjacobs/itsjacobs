@@ -1,12 +1,10 @@
 # 👋 ¡Hola! Soy Jacob
 
-💻 Desarrollador [Frontend | Backend | Fullstack] apasionado por la tecnología, el aprendizaje constante y la creación de proyectos que aporten valor.  
+💻 Desarrollador de aplicaciones multiplataforma 
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo: **[tecnología/stack]**
-- 🔭 Trabajando en: **[tu proyecto actual]**
-- 🤝 Abierto a colaborar en: **proyectos open-source o freelance**
-- ⚡ Fun fact: **[algo curioso sobre ti]**
+- 🌱 Actualmente aprendiendo: **[DAM]**
+
 
 ---
 
