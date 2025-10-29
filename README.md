@@ -1,7 +1,7 @@
 ## Hola! soy Jacob👋
 
 
-- 🌱 Estos estudiando 2º de DAM
+- 🌱 Actualmente estudiando 2º de DAM
 
 
 # Tecnologías y herramientas 🛠️
