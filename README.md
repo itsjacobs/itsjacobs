@@ -1,7 +1,7 @@
-## Hola! soy Jacob👋
+## Hola! soy Jacob Rosales Rojas👋
 
 
-- 🌱 Actualmente estudiando 2º de DAM
+- 🌱 Actualmente en prácticas para la empresa SAND 
 
 
 # Tecnologías y herramientas 🛠️
