@@ -1,31 +1,165 @@
-## Hola! soy Jacob Rosales Rojas👋
+```md
+<h1 align="center">Hi 👋, I'm Jacob Rosales Rojas</h1>
+<h3 align="center">Backend & Mobile Developer from Madrid, Spain 🇪🇸</h3>
 
+<p align="center">
+  <a href="https://github.com/itsjacobs">
+    <img src="https://komarev.com/ghpvc/?username=itsjacobs&label=Profile%20views&color=0e75b6&style=flat" alt="itsjacobs" />
+  </a>
+</p>
 
-- 🌱 Actualmente en prácticas para la empresa SAND 
+---
 
+## 🚀 About Me / Sobre mí
 
-# Tecnologías y herramientas 🛠️
+🎓 DAM Student — Multiplatform Application Development  
+💼 Currently working as an intern at **SAND**  
+📱 Passionate about **mobile development** and **backend architectures**  
+⚙️ Focused on **REST APIs, microservices and scalable applications**  
+☁️ Interested in **Cloud, Data Engineering and Databricks**
 
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+---
 
-### Lenguajes de programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+# 🛠️ Tech Stack
 
-### Frameworks y librerías
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 👨‍💻 Backend Development
 
-### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-### Herramientas y plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
 
-## 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=itsjacobs&show_icons=true&theme=radical)
+## 📱 Mobile Development
 
-## 🌐 ¡Conéctate conmigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rosales-rojas-844921384/)
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjacobs&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjacobs&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjacobs&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced Backend Architecture
+- Databricks & Data Engineering
+- Machine Learning
+- Scalable Mobile Apps
+- Cloud Infrastructure
+
+---
+
+# 🚀 Featured Projects
+
+### ⚽ Football Automation Bot
+Bot that automatically retrieves football matches from the RFFM intranet and publishes them to Telegram and Instagram stories.
+
+### 📱 Mobile Social Network
+Cross-platform mobile social network built with Flutter and scalable backend architecture.
+
+### 🔐 Authentication API
+JWT authentication system using Spring Boot, Spring Security and Redis.
+
+---
+
+# 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/itsjacobs?theme=dark&font=baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 🎵 Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=justinpain&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jacobrosalesrojas/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/itsjacobs" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Jacob Rosales Rojas
+</p>
+```
