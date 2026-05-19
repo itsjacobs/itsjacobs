@@ -14,7 +14,6 @@
 💼 Currently working as an intern at **SAND**  
 📱 Passionate about **mobile development** and **backend architectures**  
 ⚙️ Focused on **REST APIs, microservices and scalable applications**  
-☁️ Interested in **Cloud, Data Engineering and Databricks**
 
 ---
 
