@@ -32,6 +32,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -51,6 +52,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -73,6 +75,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ---
@@ -80,13 +83,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjacobs&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjacobs&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=itsjacobs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsjacobs&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjacobs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -117,14 +116,6 @@ JWT authentication system using Spring Boot, Spring Security and Redis.
 
 ---
 
-# 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/itsjacobs?theme=dark&font=baloo&ext=heatmap"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -132,7 +123,7 @@ JWT authentication system using Spring Boot, Spring Security and Redis.
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/jacob-rosales-rojas-844921384/">
+  <a href="https://www.linkedin.com/in/jacobrosalesrojas/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
@@ -140,5 +131,5 @@ JWT authentication system using Spring Boot, Spring Security and Redis.
 ---
 
 <p align="center">
-  Made with ❤️ by Jacob Rosales Rojas
+  Made by Jacob Rosales Rojas
 </p>
