@@ -82,7 +82,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="170em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsjacobs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
