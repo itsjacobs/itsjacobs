@@ -78,19 +78,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
----
-
-# 📊 GitHub Stats
-
-<p>
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsjacobs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsjacobs&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🧠 Currently Learning
 
